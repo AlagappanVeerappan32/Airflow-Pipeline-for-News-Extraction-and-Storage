@@ -22,4 +22,4 @@ This project leverages Apache Airflow to create a robust pipeline for extracting
 4.Once the DAG completes successfully, check the specified S3 bucket for the stored data.
 
 ## Architecture:
-
+![AWS DATA PIPELINE Architetcure](ARCH.JPEG)
