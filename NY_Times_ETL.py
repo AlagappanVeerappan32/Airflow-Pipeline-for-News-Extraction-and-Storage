@@ -6,7 +6,7 @@ import s3fs
 def my_function():
 
     # API KEY
-    API_KEY = "100yeFqevmiZAZtjvx3IsIuiaGJqqiWi"
+    API_KEY = "YOUR API KEY"
 
     # secert: TqclkUVoOWL0iXeS
 
